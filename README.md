@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0146-lru-cache/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0146-lru-cache](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0155-min-stack/) | Medium |
 | [0622-design-circular-queue](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0622-design-circular-queue/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,4 +106,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0155-min-stack/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0981-time-based-key-value-store](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0981-time-based-key-value-store/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0981-time-based-key-value-store](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0981-time-based-key-value-store/) | Medium |
 <!---LeetCode Topics End-->
