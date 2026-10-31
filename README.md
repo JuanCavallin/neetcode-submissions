@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0146-lru-cache/) | Medium |
+| [0155-min-stack](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0155-min-stack/) | Medium |
 | [0622-design-circular-queue](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0622-design-circular-queue/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -99,4 +100,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0622-design-circular-queue/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
