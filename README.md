@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0146-lru-cache](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Linked List
@@ -97,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0622-design-circular-queue](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0622-design-circular-queue/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -109,9 +111,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0981-time-based-key-value-store](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0981-time-based-key-value-store/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
