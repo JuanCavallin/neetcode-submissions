@@ -6,6 +6,6 @@ class Solution:
             for c in word:
                 idx = ord(c) - ord('a')
                 key[idx] += 1
-            d[str(key)].append(word)
+            d[tuple(key)].append(word)
 
         return list(d.values())
