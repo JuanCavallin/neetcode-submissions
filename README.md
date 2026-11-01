@@ -111,6 +111,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0049-group-anagrams](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Binary Search
