@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0146-lru-cache](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -111,6 +112,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0049-group-anagrams](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -122,4 +124,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
