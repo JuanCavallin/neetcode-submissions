@@ -103,6 +103,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0049-group-anagrams](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0622-design-circular-queue](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0622-design-circular-queue/) | Medium |
+| [0864-shortest-path-to-get-all-keys](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0126-word-ladder-ii/) | Hard |
+| [0864-shortest-path-to-get-all-keys](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0864-shortest-path-to-get-all-keys](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +163,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0864-shortest-path-to-get-all-keys](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 <!---LeetCode Topics End-->
