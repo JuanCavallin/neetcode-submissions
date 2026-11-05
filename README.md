@@ -145,6 +145,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0126-word-ladder-ii](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,10 +185,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
