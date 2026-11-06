@@ -8,13 +8,15 @@ class Solution:
             freq[fruits[r]] += 1
             if freq[fruits[r]] == 1:
                 types += 1
-            r += 1
+            
             while types > 2:
                 freq[fruits[l]] -= 1
                 if freq[fruits[l]] == 0:
                     types -= 1
                 l += 1
-            result = max(result, r - l)
+            result = max(result, r - l + 1)
+
+            r += 1
 
 
         return result
