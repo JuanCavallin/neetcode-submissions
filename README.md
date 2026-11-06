@@ -111,6 +111,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1004-max-consecutive-ones-iii](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2392-build-a-matrix-with-conditions](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0981-time-based-key-value-store](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +188,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0864-shortest-path-to-get-all-keys](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2392-build-a-matrix-with-conditions](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -200,6 +204,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +215,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,4 +234,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2392-build-a-matrix-with-conditions](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
