@@ -161,6 +161,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0310-minimum-height-trees](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
+| [1376-time-needed-to-inform-all-employees](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -207,6 +208,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0310-minimum-height-trees](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0687-longest-univalue-path](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -253,6 +255,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0687-longest-univalue-path](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
