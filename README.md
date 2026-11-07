@@ -203,6 +203,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0687-longest-univalue-path](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -247,9 +248,15 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0687-longest-univalue-path](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0687-longest-univalue-path](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0687-longest-univalue-path](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
 <!---LeetCode Topics End-->
