@@ -160,6 +160,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0126-word-ladder-ii](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bidirectional Search
@@ -203,6 +204,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
@@ -242,4 +244,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
