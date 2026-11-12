@@ -103,6 +103,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0622-design-circular-queue](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0622-design-circular-queue/) | Medium |
@@ -197,6 +198,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2392-build-a-matrix-with-conditions](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
@@ -291,4 +293,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1755-closest-subsequence-sum](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1755-closest-subsequence-sum/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
