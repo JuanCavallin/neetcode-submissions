@@ -102,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
+| [0031-next-permutation](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
@@ -182,6 +183,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
+| [0031-next-permutation](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1755-closest-subsequence-sum/) | Hard |
