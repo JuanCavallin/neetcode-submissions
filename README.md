@@ -113,6 +113,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1755-closest-subsequence-sum](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [2392-build-a-matrix-with-conditions](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
@@ -145,6 +146,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
+| [1755-closest-subsequence-sum](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1755-closest-subsequence-sum/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,11 +179,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1755-closest-subsequence-sum](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1755-closest-subsequence-sum/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
+| [1755-closest-subsequence-sum](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1755-closest-subsequence-sum/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +205,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1755-closest-subsequence-sum](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1755-closest-subsequence-sum/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,4 +283,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Meet in the Middle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1755-closest-subsequence-sum](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1755-closest-subsequence-sum/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1755-closest-subsequence-sum](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1755-closest-subsequence-sum/) | Hard |
 <!---LeetCode Topics End-->
