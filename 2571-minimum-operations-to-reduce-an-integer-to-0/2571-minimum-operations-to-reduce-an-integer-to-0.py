@@ -9,10 +9,8 @@ class Solution:
             a = abs(current - largest)
             b = abs(current - max(largest // 2, 1))
             current = min(a, b)
-            print(current)
-            while largest / 2 > current:
-                largest //= 2
-            print(largest)                
+            while largest // 2 > current:
+                largest //= 2            
             result += 1
 
         return result
