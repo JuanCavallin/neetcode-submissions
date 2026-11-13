@@ -196,6 +196,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0864-shortest-path-to-get-all-keys](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [1755-closest-subsequence-sum](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +221,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0042-trapping-rain-water](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +317,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
