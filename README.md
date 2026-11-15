@@ -114,6 +114,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0622-design-circular-queue](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0622-design-circular-queue/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -132,6 +133,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0155-min-stack/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,12 +222,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1755-closest-subsequence-sum/) | Hard |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0907-sum-of-subarray-minimums](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
