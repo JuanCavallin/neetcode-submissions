@@ -180,6 +180,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0126-word-ladder-ii/) | Hard |
+| [0210-course-schedule-ii](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0864-shortest-path-to-get-all-keys](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0864-shortest-path-to-get-all-keys/) | Hard |
@@ -242,6 +243,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0687-longest-univalue-path](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -252,6 +254,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -277,6 +280,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0310-minimum-height-trees/) | Medium |
 | [2392-build-a-matrix-with-conditions](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 ## Directed Acyclic Graph
