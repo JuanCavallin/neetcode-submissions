@@ -122,6 +122,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1755-closest-subsequence-sum](https://github.com/JuanCavallin/neetcode-submissions/tree/main/1755-closest-subsequence-sum/) | Hard |
+| [2104-sum-of-subarray-ranges](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2392-build-a-matrix-with-conditions](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2762-continuous-subarrays](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2762-continuous-subarrays/) | Medium |
@@ -137,6 +138,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0042-trapping-rain-water](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0155-min-stack/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +238,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/JuanCavallin/neetcode-submissions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/JuanCavallin/neetcode-submissions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
